@@ -62,6 +62,9 @@ export default {
 </script>
 
 <style scoped>
+body {
+  font-family: 'Poppins', sans-serif;
+}
 /* 🌐 PAGE BACKGROUND */
 .page {
   min-height: 100vh;
